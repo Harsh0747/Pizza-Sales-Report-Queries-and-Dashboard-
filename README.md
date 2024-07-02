@@ -1,1 +1,1 @@
-# Pizza-Sales-Report-Queries-and-Dashboard-
+I led a project where I cleaned and fetched data using SQL queries. Following the data retrieval, I conducted thorough data cleaning processes. The project culminated in the creation of an interactive dashboard, fully parameterized and organized across multiple pages, to facilitate comprehensive data analysis and visualization.
